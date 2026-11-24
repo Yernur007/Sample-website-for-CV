@@ -6,7 +6,7 @@
 
 No frameworks · No build step · No image files · ~1,500 lines
 
-[**Live demo**](https://Yernur007.github.io/manor/) · [Features](#features) · [Run it locally](#run-it-locally) · [How it works](#how-it-works)
+[**Live demo**](https://Yernur007.github.io/Sample-website-for-CV/) · [Features](#features) · [Run it locally](#run-it-locally) · [How it works](#how-it-works)
 
 <br/>
 
@@ -110,7 +110,7 @@ All shop state (current filter, sort order, bag contents, the open product) live
 No install needed. Clone the repo and open the page:
 
 ```bash
-git clone https://github.com/Yernur007/manor.git
+git clone https://github.com/Yernur007/Sample-website-for-CV.git
 cd manor
 open index.html        # macOS. On Windows: start index.html
 ```
@@ -153,6 +153,6 @@ manor/
 **Yernur**
 
 - GitHub: [@Yernur007](https://github.com/Yernur007)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/yernur_n)
+- LinkedIn: [Yernur](https://www.linkedin.com/in/yernur-n)
 
 <sub>MANOR is a fictional brand created for this portfolio project. It is not affiliated with any real company.</sub>
