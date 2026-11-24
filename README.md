@@ -6,7 +6,7 @@
 
 No frameworks · No build step · No image files · ~1,500 lines
 
-[**Live demo**](https://Yernur007.github.io/Sample-website-for-CV/) · [Features](#features) · [Run it locally](#run-it-locally) · [How it works](#how-it-works)
+[Features](#features) · [Run it locally](#run-it-locally) · [How it works](#how-it-works)
 
 <br/>
 
@@ -107,15 +107,7 @@ All shop state (current filter, sort order, bag contents, the open product) live
 
 ## Run it locally
 
-No install needed. Clone the repo and open the page:
-
-```bash
-git clone https://github.com/Yernur007/Sample-website-for-CV.git
-cd manor
-open index.html        # macOS. On Windows: start index.html
-```
-
-Or serve it locally, for example with the **Live Server** extension in VS Code, or:
+Serve it locally, for example with the **Live Server** extension in VS Code, or:
 
 ```bash
 python3 -m http.server 8000   # then visit http://localhost:8000
