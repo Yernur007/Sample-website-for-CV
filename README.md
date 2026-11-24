@@ -48,8 +48,8 @@ I built it as a portfolio piece to show front-end layout, interaction design and
 
 <table>
   <tr>
-    <td width="70%"><img src="screenshots/shop.png" alt="Product grid with category filters"/></td>
-    <td width="30%"><img src="screenshots/mobile.png" alt="Mobile layout"/></td>
+    <td width="70%"><img src="shop.png" alt="Product grid with category filters"/></td>
+    <td width="30%"><img src="mobile.png" alt="Mobile layout"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Product grid: hover a card to see the back of the garment</sub></td>
@@ -57,7 +57,7 @@ I built it as a portfolio piece to show front-end layout, interaction design and
   </tr>
 </table>
 
-<img src="screenshots/lookbook.png" alt="Lookbook gallery and skate team section" width="100%"/>
+<img src="lookbook.png" alt="Lookbook gallery and skate team section" width="100%"/>
 <p align="center"><sub>Lookbook gallery and team section</sub></p>
 
 ---
