@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⬡ MANOR
+# MANOR
 
 **A streetwear & skateboard web shop, built from scratch with plain HTML, CSS and JavaScript.**
 
@@ -10,7 +10,7 @@ No frameworks · No build step · No image files · ~1,500 lines
 
 <br/>
 
-<img src="screenshots/hero.png" alt="MANOR home page with the VHS-style drop banner and countdown" width="100%"/>
+<img src="hero.png" alt="MANOR home page with the VHS-style drop banner and countdown" width="100%"/>
 
 </div>
 
